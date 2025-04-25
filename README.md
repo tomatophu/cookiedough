@@ -7,5 +7,3 @@ Things to note:
  - The required modules to install are in the "requirements.txt" file
  - The font files are not included as they are copyrighted material (you can buy them at https://pixbob.itch.io/pixbob-fonts)
  - The source code is pretty messy
-
-Archived 4/25/2025
